@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "POFIBGE",
-    "oncran": true
-  },
-  {
     "package": "SIPDIBGE",
     "oncran": true
   }

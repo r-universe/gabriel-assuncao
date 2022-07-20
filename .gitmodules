@@ -18,11 +18,6 @@
 	url = https://github.com/gabriel-assuncao/pnsibge
 	shallow = true
 	registered = true
-[submodule "POFIBGE"]
-	path = POFIBGE
-	url = https://github.com/gabriel-assuncao/pofibge
-	shallow = true
-	registered = true
 [submodule "SIPDIBGE"]
 	path = SIPDIBGE
 	url = https://github.com/gabriel-assuncao/sipdibge
