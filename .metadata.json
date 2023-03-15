@@ -1,14 +1,14 @@
 [
   {
+    "package": "COVIDIBGE",
+    "oncran": true
+  },
+  {
     "package": "PNADcIBGE",
     "oncran": true
   },
   {
     "package": "PNSIBGE",
-    "oncran": true
-  },
-  {
-    "package": "COVIDIBGE",
     "oncran": true
   },
   {
