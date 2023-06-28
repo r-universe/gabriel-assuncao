@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "COVIDIBGE"]
 	path = COVIDIBGE
 	url = https://github.com/gabriel-assuncao/covidibge
-	shallow = true
-	registered = true
 [submodule "PNADcIBGE"]
 	path = PNADcIBGE
 	url = https://github.com/gabriel-assuncao/pnadcibge
-	shallow = true
-	registered = true
 [submodule "PNSIBGE"]
 	path = PNSIBGE
 	url = https://github.com/gabriel-assuncao/pnsibge
-	shallow = true
-	registered = true
 [submodule "SIPDIBGE"]
 	path = SIPDIBGE
 	url = https://github.com/gabriel-assuncao/sipdibge
-	shallow = true
-	registered = true
