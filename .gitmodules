@@ -8,6 +8,9 @@
 [submodule "PNADcIBGE"]
 	path = PNADcIBGE
 	url = https://github.com/gabriel-assuncao/pnadcibge
+[submodule "PNDSIBGE"]
+	path = PNDSIBGE
+	url = https://github.com/gabriel-assuncao/pndsibge
 [submodule "PNSIBGE"]
 	path = PNSIBGE
 	url = https://github.com/gabriel-assuncao/pnsibge
